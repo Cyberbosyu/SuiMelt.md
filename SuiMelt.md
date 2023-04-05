@@ -5,6 +5,7 @@
 ### Project Name or Logo
 
 SuiMelt
+![SuiMelt_LOGO](../assets/SuiMelt.png)
 
 ### Project Website
 
