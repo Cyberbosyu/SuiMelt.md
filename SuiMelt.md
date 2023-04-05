@@ -20,8 +20,10 @@ twitter: https://twitter.com/SuiMelt_
 discord: https://discord.gg/7rGJdV8u
 
 ## Project Description 
+- SuiMelt is Sui's first NFT marketplace powered by its premier Automated Market
+Maker (AMM) protocol designed specifically for trading pools and price
+discovery functions for NFT assets.
 
-- SuiMelt is an automated market maker (AMM) protocol based on SUI, providing trading pools and price discovery functions for NFT assets. 
 - Using customizable bonding curves, it facilitates the exchange of NFTs for tokens (and vice versa). Liquidity providers (LPs) can deposit assets into single-sided buy or sell pools, or into dual-sided trade pools which buy and sell NFTs with an optional spread to capture trading fees.
 - Users trade with NFT liquidity pools instead of directly trading between themselves.
 
