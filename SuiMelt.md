@@ -16,8 +16,6 @@ suimelt.com
 
 E-mail: cyberbosyu@gmail.com
 
-twitter: https://twitter.com/SuiMelt_
-
 discord: https://discord.gg/7w9NUvTZ
 
 ## Project Description 
